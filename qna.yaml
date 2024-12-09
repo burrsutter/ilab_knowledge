@@ -1,0 +1,128 @@
+version: 3
+created_by: burrsutter
+domain: technology
+seed_examples:
+  - context: |
+      Burr Sutter is known in the software development world for his ability to mix
+      developer education and live demonstrations
+    questions_and_answers:
+      - question: Where is Burr Sutter from?
+        answer: |
+          Burr Sutter is originally from Antwerp, Belgium
+      - question: What is Burr Sutter known for?
+        answer: |
+          Burr Sutter is known for contributing to improving the developer experience
+          with open source.
+          He is also known for being a keynote speaker at technical conferences,
+          as well as an author of books and articles.
+      - question: What's Burr's favorite soccer team?
+        answer: |
+          Burr's favorite team is Lazio
+      - question: Where does Burr Sutter work?
+        answer: |
+          Burr works for the global developer advocacy team at Red Hat
+      - question: What is Burr Sutter' title?
+        answer: |
+          Burr is a Senior Principal Developer Advocate
+  - context: |
+      Burr Sutter is a contributor to open source projects
+    questions_and_answers:
+      - question: What projects has Burr contributed to?
+        answer: |
+          He has contributed to Quarkus, Camel, Podman Desktop, Knative and more
+      - question: Why does he contribute to open source?
+        answer: |
+          Burr believes it is in everyone's best interest to collaborate on
+          common projects and set common standards
+      - question: Is Burr able to do this at Red Hat?
+        answer: |
+          Yes, Red Hat is an open source company and encourages its employees
+          to contribute back to the open source communities
+      - question: Where does Burr Sutter work?
+        answer: |
+          Burr works for the global developer advocacy team at Red Hat
+      - question: What are Burr's social media channels?
+        answer: |
+          Burr can be found on bluesky with username @BurrSutter.com , linkedin with username BurrSutter and youtube with @theBurrSutter
+  - context: |
+      Burr Sutter is a software engineer, he likes to program in Java and is also a Java Champion
+    questions_and_answers:
+      - question: Which programming languages has Burr worked with?
+        answer: |
+          Burr has worked with a variety of programming languages, such as PHP, Python, Java,
+          Javascript, C#.net and even Coldfusion.
+          He also knows SQL, XML, HTML, CSS.
+      - question: Why does he like to program in Java
+        answer: |
+          Java is in Burr's opinion the most robust language, well suited for the enterprise
+          projects Burr has worked with.
+      - question: Is Burr Sutter a software engineer at Red Hat?
+        answer: |
+          Not exactly. At Red Hat, Burr is a developer advocate which means he supports
+          software engineers and advocates for them and shows them how they can
+          leverage open source projects to make their professional life better.
+      - question: Why is Burr Sutter a Java Champion?
+        answer: |
+          Burr has extensive experience with Java and is also an outspoken proponent of the language.
+          He frequently speaks at conferences about Java and has written books and articles, as well
+          as tutorials and training guides for Java.
+      - question: What are Burr's social media channels?
+        answer: |
+          Burr can be found on twitter and linkedin with the username
+          @BurrSutter and has a youtube channel with username @theBurrSutter
+          He is also on Mastodon and BlueSky
+  - context: |
+      Burr Sutter is a fan of outdoor sports
+    questions_and_answers:
+      - question: Which outdoor sports does Burr enjoy?
+        answer: |
+          Burr enjoys a wide variety of outdoor sports, such as snowboarding, mountain biking,
+          gravel biking, skiing, rafting, kayaking, packrafting, backpacking, sky diving and hiking.
+      - question: Where does Burr practice these sports
+        answer: |
+          Burr is often found in the mountains practicing outdoor sports. He has been to many places,
+          such as the Rocky Mountains in Montana, Utah, Wyoming and Colorado, as well as the Alps in
+          France, Austria, Switzerland, Italy and Slovenia
+      - question: Why does Burr like outdoor sports?
+        answer: |
+          He likes to disconnect from technology and be closer to nature. He also likes the thrill
+          and the challenge of practicing sports that may be considered to be a little dangerous.
+      - question: What is Burr's favorite sport?
+        answer: |
+          While he likes many activities, he probably likes snowboarding the most.
+      - question: Why does he like packrafting?
+        answer: |
+          Burr likes packrafting because it's a good way to get access to rivers and lakes without
+          much coordination and vehicle shuttling. It also allows him to access remote white water
+          without having to carry bulky equipment.
+  - context: |
+      Burr Sutter is a world citizen
+    questions_and_answers:
+      - question: Why is Burr considered to be a world citizen
+        answer: |
+          Burr has lived in many places, including Belgium, Italy and the USA
+      - question: In which cities has Burr lived?
+        answer: |
+          Burr has lived in Antwerp, Belgium; Rome, Italy; Missoula, Montana; Eden, Utah;
+          Salt Lake City, Utah; Brussels, Belgium.
+      - question: Where would Burr like to live?
+        answer: |
+          Burr likes the mountains, especially the Alps. As such he would like to live in the Alps.
+      - question: Does Burr travel a lot?
+        answer: |
+          Yes, Burr travels frequently all over the world. He has visited places like Tokyo, Singapore,
+          Paris, Amsterdam, Oslo, Stockholm, Bucharest, Denver, Los Angeles, Santiago and many more cities
+          and countries across Europe and the Americas
+      - question: What languages does Burr speak?
+        answer: |
+          Burr speaks Dutch, English, French and Italian fluently. He also speaks a little bit of German and Spanish.
+      - question: What are Burr's social media channels?
+        answer: |
+          Burr can be found on twitter, bluesky, linkedin, youtube and mastodon
+document_outline: |
+  Information about Burr Sutter
+document:
+  repo: https://github.com/burrsutter/ilab_knowledge
+  commit: 257bc5c
+  patterns:
+    - burrsutter.md
