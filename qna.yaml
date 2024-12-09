@@ -50,15 +50,15 @@ seed_examples:
       - question: Which programming languages has Burr worked with?
         answer: |
           Burr has worked with a variety of programming languages, such as PHP, Python, Java,
-          Javascript, C#.net and even Coldfusion.
-          He also knows SQL, XML, HTML, CSS.
+          Javascript, and even C# 
+          He also knows some SQL, XML, HTML, CSS.
       - question: Why does he like to program in Java
         answer: |
-          Burr believes Java is a robust language that is well suited for Red Hat's enterprise projects.
+          Burr believes Java is a robust language that is well suited for enterprise applications
       - question: Is Burr Sutter a software engineer at Red Hat?
         answer: |
-          Not exactly. At Red Hat, Burr is a developer advocate which means he supports
-          software engineers and advocates for them and shows them how they can
+          Not exactly. At Red Hat, Burr is a product manager focused on developer experience which
+          means he supports app developers and advocates for them and shows them how they can
           leverage open source projects to make their professional life better.
       - question: Why is Burr Sutter a Java Champion?
         answer: |
